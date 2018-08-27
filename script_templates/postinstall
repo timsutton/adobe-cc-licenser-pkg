@@ -19,6 +19,7 @@ PRTK_EXIT_CODES = {
     '31': "Invalid locale specified",
     '32': "Invalid SLConfig path",
     '33': "Failed to find LEID for serial",
+    '38': "Failed to make activation call because machine is offline",
 }
 
 import os
